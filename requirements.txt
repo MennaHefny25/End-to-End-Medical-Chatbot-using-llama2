@@ -7,4 +7,5 @@ langchain_pinecone
 langchain-huggingface
 flask
 pypdf
+python-dotenv
 -e .

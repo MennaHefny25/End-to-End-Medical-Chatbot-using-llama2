@@ -41,7 +41,7 @@ python store_index.py
 
 ```bash
 # Finally run the following command
-python app.py
+python main.py
 ```
 
 Now,

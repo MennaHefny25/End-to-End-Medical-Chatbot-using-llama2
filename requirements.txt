@@ -8,4 +8,5 @@ langchain-huggingface
 flask
 pypdf
 python-dotenv
+Werkzeug
 -e .

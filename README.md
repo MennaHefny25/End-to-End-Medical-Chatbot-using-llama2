@@ -4,7 +4,7 @@
 
 #### 1) Create virtual environment 
 ```bash
-$ conda create -n `environment_name` python=3.8 -y
+$ conda create -n `environment_name` python=3.10 -y
 ```
 
 #### 2) Activate environment 
